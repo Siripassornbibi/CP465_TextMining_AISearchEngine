@@ -2,16 +2,18 @@
 
 A monorepo containing a full search engine pipeline built on a web crawler, vector embeddings, and retrieval-augmented generation.
 
+<img width="1431" height="768" alt="Screenshot 2569-10-01 at 05 23 59" src="https://github.com/user-attachments/assets/e2e0cb43-298c-4f72-980c-321b6511eeaa" />
+
+## Presentation
+- [Video](https://youtu.be/CzmPL8I10LU)
+- [Canva](https://canva.link/1rk3ytgj6gpym9f)
+
 ```
 /
 └── app/
 	├──	embedding/          # Embedding API + RabbitMQ worker
 	└── evaluation/        	# Evaluation package
 ```
-
-# Presentation
-- [Video](https://youtu.be/CzmPL8I10LU)
-- [Canva](https://canva.link/1rk3ytgj6gpym9f)
 
 ---
 
