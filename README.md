@@ -9,6 +9,10 @@ A monorepo containing a full search engine pipeline built on a web crawler, vect
 	└── evaluation/        	# Evaluation package
 ```
 
+# Presentation
+- [Video](https://youtu.be/CzmPL8I10LU)
+- [Canva](https://canva.link/1rk3ytgj6gpym9f)
+
 ---
 
 ## Architecture overview
